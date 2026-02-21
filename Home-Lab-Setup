@@ -1,0 +1,5 @@
+# Home Lab-Setup for RHCSA 
+
+This repository documents my personal RHCSA/RHCE home lab built with RHEL 10 on Hyper-V Manager. The lab is designed for hands-on, scenario-based practice to strengthen Linux system administration skills and develop Ansible automation experience in preparation for the RHCSA v9/10 and RHCE exams.
+
+ ![image](https://github.com/otraore26/RHCSA-v10-System-Administration-Labs-Projects-EX200-Preparation-/blob/3428d7722006b407702d933f2ce059154eb346d9/Downloading%20Package.png) 
